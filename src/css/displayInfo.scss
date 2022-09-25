@@ -1,0 +1,17 @@
+.size-20 {
+  font-size: 20px;
+}
+//thông thường có 1 class cha bọc ngoài để kiểm soát code
+.display-info {
+  .red {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
+}
+.add-userinfo{
+    img {
+        max-width: 200px;
+    }
+}

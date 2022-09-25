@@ -1,0 +1,18 @@
+Cách hoạt động của React js
+
+- là SPA (single page application)
+
+
+
+favicon.ico: file logo của website
+- manifest.json: cung cấp thông tin của ứng dụng, như tên, hình ảnh… được sử
+dụng chủ yếu để hiển thị trên mobile
+- robotstxt: phục vụ mục đích SEO, crawl data của Google bot
+
+
+1. dịch code - babel compiler  --> code nhiều version js
+2. tối ưu code, nén nó thành 1 vài file: css/js sử dụng webpack
+
+---
+1. state
+- là component object
